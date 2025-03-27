@@ -37,7 +37,7 @@ Multiple clustering approaches were evaluated:
 Linear regression was used to predict afternoon traffic based on morning counts, with an R² of 0.786.
 
 ## Note on Project Completeness
-This repository contains only my contributions to the larger group project. The complete project included additional analyses and model development by my teammates. For information about the full project, please refer to the attached report documentation.
+This repository contains only my contributions to the larger group project. The complete project included additional analyses and model development by my teammates.
 
 ## Technologies Used
 - Python
